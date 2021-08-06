@@ -1,7 +1,7 @@
 # New Home: [2023 29th St NW](https://www.zillow.com/homedetails/2023-29th-St-NW-Cedar-Rapids-IA-52405/113103384_zpid/)
 A punch list of tasks we need to do while moving to 29th Street.
 
-## Moving
+## To Do
 - (Chris) Could we ever (ever) need flood insurance?
 - (TBD) Get quote for movers.
 - (Margie) Get stuff in the old van to the dump.
@@ -22,12 +22,12 @@ A punch list of tasks we need to do while moving to 29th Street.
   - Internet
   - Others?
 
-## Moving - Info
+## FYI
 - Lawyer is Guy Booth.
   - Cedar Rapids office: 319-366-7795
   - Mt. Vernon office: 319-895-8150
 
-## Moving - Done
+## Done
 - Make final decision regarding cash vs financing.
 - Earnest money.
   - Needs instructions from Kyle.
