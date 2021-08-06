@@ -44,6 +44,4 @@ A punch list of tasks we need to do while moving to 29th Street.
 
 ---
 
-That's all for today. Thanks for reading.
-
-_note: synchronizing this extension's data across browsers may take a while_
+_Margie: Let me know when you have completed something or want anything changed on the list. I can teach you how to edit it yourself - it's pretty easy._
