@@ -41,6 +41,7 @@ A punch list of tasks we need to do while moving to 29th Street.
   - Year A/C put in
   - Year of roof
 - (Chris) Get quote for homeowner's insurance
+
 ---
 
 That's all for today. Thanks for reading.
