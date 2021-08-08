@@ -51,4 +51,4 @@ A punch list of tasks we need to do while moving to 29th Street.
 
 ---
 
-_Margie: Let me know when you have completed something or want anything changed on the list. I can teach you how to edit it yourself - it's pretty easy._
+### (Chris) [Things for Chris to look at for dumpster fodder](./dumpster-chris.md)
