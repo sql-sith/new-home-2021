@@ -1,6 +1,6 @@
-# 2023 29th Street NW
+# [2023 29th Street NW](./README.md)
 
-## Places for Chris to look for dumpster items
+### Places for Chris to look for dumpster items
 
 - storage crates in laundry room
 - books in office
