@@ -2,16 +2,11 @@
 
 ## 2023 19th St NW
 
-A punch list of tasks we need to do while moving to 29th Street.
-[Zillow URL](https://www.zillow.com/homedetails/2023-29th-St-NW-Cedar-Rapids-IA-52405/113103384_zpid/)
+A punch list of tasks we need to do while moving to 29th Street.\
+[Zillow URL](https://www.zillow.com/homedetails/2023-29th-St-NW-Cedar-Rapids-IA-52405/113103384_zpid/)\
 [Linn County Assessor's URL](https://cedarrapids.iowaassessors.com/parcel.php?gid=869303) 
 
 ## To Do
-
-<div>
-  <input type="checkbox" name="uchk">
-  <label for="uchk">Unchecked.</label>
-</div>
 
 - (Chris) Could we ever (ever) need flood insurance?
 - (TBD) Get quote for movers.
